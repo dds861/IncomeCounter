@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Счётчик Дохода</string>
+    <string name="showMonthlyIncome">Укажите ежемесячный заработок:</string>
+    <string name="inTenge">в тенге</string>
+    <string name="turnOnCounter">Включить счётчик</string>
+    <string name="stopCounter">Остановить счётчик</string>
+</resources>
