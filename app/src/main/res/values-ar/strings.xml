@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عداد الدخل</string>
+    <string name="_sekund">ثواني</string>
+    <string name="iItogo_zarabotaesh">إجمالي الأرباح:</string>
+    <string name="inTenge">هنا</string>
+    <string name="showMonthlyIncome">أدخل دخلك الشهري:</string>
+    <string name="stopCounter">إيقاف العداد</string>
+    <string name="turnOnCounter">بدوره على العداد</string>
+    <string name="ty_zarabotal">كنت كسبت</string>
+    <string name="v_techenii">خلال</string>
+    <string name="za_10_let">لمدة 10 سنوات</string>
+    <string name="za_1_den">لمدة يوم واحد</string>
+    <string name="za_1_mesyac">لمدة شهر واحد</string>
+    <string name="za_1_nedelyu">لمدة أسبوع واحد</string>
+    <string name="za_20_let">لمدة 20 عاما</string>
+    <string name="za_30_let">لمدة 30 عاما</string>
+    <string name="za_3_mesyaca">لمدة 3 أشهر</string>
+    <string name="za_5_let">لمدة 5 سنوات</string>
+    <string name="za_god">في السنة</string>
+    <string name="za_polgoda">لمدة نصف سنة</string>
+</resources>

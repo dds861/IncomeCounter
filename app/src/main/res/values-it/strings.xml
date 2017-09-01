@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contatore di reddito</string>
+    <string name="inTenge">ecco</string>
+    <string name="showMonthlyIncome">Inserisci il tuo reddito mensile</string>
+    <string name="stopCounter">Contatore stop</string>
+    <string name="turnOnCounter">Attivazione del contatore</string>
+    <string name="ty_zarabotal">vinto</string>
+    <string name="v_techenii">Durante</string>
+    <string name="za_10_let">per 10 anni</string>
+    <string name="za_1_den">per 1 giorno</string>
+    <string name="za_1_mesyac">per 1 mese</string>
+    <string name="za_1_nedelyu">per 1 settimana</string>
+    <string name="za_20_let">per 20 anni</string>
+    <string name="iItogo_zarabotaesh">Totale ricavi e proventi</string>
+    <string name="_sekund">secondi</string>
+    <string name="za_30_let">per 30 anni</string>
+    <string name="za_3_mesyaca">per 3 mesi</string>
+    <string name="za_5_let">per 5 anni</string>
+    <string name="za_god">in un anno</string>
+    <string name="za_polgoda">per semestre</string>
+</resources>

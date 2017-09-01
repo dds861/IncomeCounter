@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">आय काउंटर</string>
+    <string name="_sekund">सेकंड</string>
+    <string name="iItogo_zarabotaesh">कुल आय:</string>
+    <string name="inTenge">यहां</string>
+    <string name="showMonthlyIncome">अपनी मासिक आय दर्ज करें:</string>
+    <string name="stopCounter">काउंटर बंद करो</string>
+    <string name="turnOnCounter">काउंटर चालू करें</string>
+    <string name="ty_zarabotal">आपने अर्जित किया</string>
+    <string name="v_techenii">दौरान</string>
+    <string name="za_10_let">10 साल तक</string>
+    <string name="za_1_den">1 दिन के लिए</string>
+    <string name="za_1_mesyac">1 महीने के लिए</string>
+    <string name="za_1_nedelyu">1 सप्ताह के लिए</string>
+    <string name="za_20_let">20 साल के लिए</string>
+    <string name="za_30_let">30 साल के लिए</string>
+    <string name="za_3_mesyaca">3 महीने के लिए</string>
+    <string name="za_5_let">5 साल के लिए</string>
+    <string name="za_god">एक वर्ष में</string>
+    <string name="za_polgoda">आधे साल के लिए</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Licznik dochodów</string>
+    <string name="_sekund">sekundy</string>
+    <string name="iItogo_zarabotaesh">Dochody ogółem: Ogółem</string>
+    <string name="inTenge">tutaj</string>
+    <string name="showMonthlyIncome">Wprowadź swój miesięczny dochód</string>
+    <string name="stopCounter">Zatyczka - licznik</string>
+    <string name="turnOnCounter">Włączyć licznik</string>
+    <string name="ty_zarabotal">zarobiony</string>
+    <string name="v_techenii">podczas gdy</string>
+    <string name="za_10_let">dla 10 lat dla dla 10 lat</string>
+    <string name="za_1_den">dla jednego dnia</string>
+    <string name="za_1_mesyac">dla jednego miesiąca</string>
+    <string name="za_1_nedelyu">dla jednego tygodnia</string>
+    <string name="za_20_let">dla 20 lat dla 20</string>
+    <string name="za_30_let">dla 30 lat dla dla 30 lat</string>
+    <string name="za_3_mesyaca">dla 3 miesięcy</string>
+    <string name="za_5_let">dla 5 lat dla 5 lat</string>
+    <string name="za_god">w roku</string>
+    <string name="za_polgoda">dla pół roku</string>
+</resources>

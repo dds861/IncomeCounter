@@ -128,17 +128,17 @@ public class MainActivity extends AppCompatActivity {
 
                                 runOnUiThread(new Runnable() {
                                     public void run() {
-                                        tvAddInfo.setText("Итого заработаешь:");
-                                        mTextView.setText("тенге за 1 день");
-                                        mTextView2.setText("тенге за  1 неделю");
-                                        mTextView3.setText("тенге за  1 месяц");
-                                        mTextView4.setText("тенге за  3 месяца");
-                                        mTextView5.setText("тенге за  полгода");
-                                        mTextView6.setText("тенге за  год");
-                                        mTextView7.setText("тенге за  5 лет");
-                                        mTextView8.setText("тенге за  10 лет");
-                                        mTextView9.setText("тенге за  20 лет");
-                                        mTextView10.setText("тенге за  30 лет");
+                                        tvAddInfo.setText(R.string.iItogo_zarabotaesh);
+                                        mTextView.setText(R.string.za_1_den);
+                                        mTextView2.setText(R.string.za_1_nedelyu);
+                                        mTextView3.setText(R.string.za_1_mesyac);
+                                        mTextView4.setText(R.string.za_3_mesyaca);
+                                        mTextView5.setText(R.string.za_polgoda);
+                                        mTextView6.setText(R.string.za_god);
+                                        mTextView7.setText(R.string.za_5_let);
+                                        mTextView8.setText(R.string.za_10_let);
+                                        mTextView9.setText(R.string.za_20_let);
+                                        mTextView10.setText(R.string.za_30_let);
 
                                         mTextView11.setText(df2.format(b * 60 * 60 * 24));
                                         mTextView12.setText(df2.format(b * 60 * 60 * 24 * 7));
@@ -161,7 +161,7 @@ public class MainActivity extends AppCompatActivity {
                                             // update TextView here!
 
                                             a[0] = df.format(SalaryCounter[0]);
-                                            tvCounter.setText("В течении\n" + seconds[0] + " секунд" + "\n ты заработал\n" + a[0] + " тенге");
+                                            tvCounter.setText(getString(R.string.v_techenii) + "\n"  + seconds[0] + " "+ getString(R.string._sekund) + "\n " + getString(R.string.ty_zarabotal) + "\n" + a[0]);
                                             SalaryCounter[0] += b;
                                             seconds[0]++;
 

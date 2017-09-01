@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Счётчик Дохода</string>
+    <string name="inTenge">здесь</string>
+    <string name="showMonthlyIncome">Укажите ежемесячный заработок:</string>
+    <string name="stopCounter">Остановить счётчик</string>
+    <string name="turnOnCounter">Включить счётчик</string>
+    <string name="iItogo_zarabotaesh">Итого заработаешь:</string>
+    <string name="za_1_den">за 1 день</string>
+    <string name="za_1_nedelyu">за 1 неделю</string>
+    <string name="za_1_mesyac">за 1 месяц</string>
+    <string name="za_3_mesyaca">за 3 месяца</string>
+    <string name="za_polgoda">за полгода</string>
+    <string name="za_god">за год</string>
+    <string name="za_5_let">за 5 лет</string>
+    <string name="za_10_let">за 10 лет</string>
+    <string name="za_20_let">за 20 лет</string>
+    <string name="za_30_let">за 30 лет</string>
+    <string name="v_techenii">В течении</string>
+    <string name="_sekund">секунд</string>
+    <string name="ty_zarabotal">ты заработал</string>
+</resources>

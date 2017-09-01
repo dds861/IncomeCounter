@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contador de Ingresos</string>
+    <string name="inTenge">aquí</string>
+    <string name="showMonthlyIncome">Ingrese su ingreso mensual:</string>
+    <string name="stopCounter">Parar contador</string>
+    <string name="turnOnCounter">Activar contador</string>
+    <string name="ty_zarabotal">te ganaste</string>
+    <string name="v_techenii">Durante</string>
+    <string name="za_10_let">durante 10 años</string>
+    <string name="za_1_den">por 1 día</string>
+    <string name="za_1_mesyac">por 1 mes</string>
+    <string name="za_1_nedelyu">durante 1 semana</string>
+    <string name="za_20_let">durante 20 años</string>
+    <string name="iItogo_zarabotaesh">Ganancias totales:</string>
+    <string name="_sekund">segundos</string>
+    <string name="za_30_let">durante 30 años</string>
+    <string name="za_3_mesyaca">durante 3 meses</string>
+    <string name="za_5_let">durante 5 años</string>
+    <string name="za_god">en un año</string>
+    <string name="za_polgoda">durante medio año</string>
+</resources>

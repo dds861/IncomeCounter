@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inkomsten teller</string>
+    <string name="_sekund">seconden</string>
+    <string name="iItogo_zarabotaesh">Totaal inkomen: Totaal inkomen</string>
+    <string name="inTenge">hier</string>
+    <string name="showMonthlyIncome">Uw maandelijks inkomen invoeren: -</string>
+    <string name="stopCounter">Stop balie</string>
+    <string name="turnOnCounter">Schakel de teller in</string>
+    <string name="ty_zarabotal">je verdiend</string>
+    <string name="v_techenii">Tijdens</string>
+    <string name="za_10_let">gedurende 10 jaar</string>
+    <string name="za_1_den">voor 1 dag</string>
+    <string name="za_1_mesyac">gedurende één maand</string>
+    <string name="za_1_nedelyu">gedurende 1 week</string>
+    <string name="za_20_let">gedurende 20 jaar</string>
+    <string name="za_30_let">gedurende 30 jaar</string>
+    <string name="za_3_mesyaca">gedurende 3 maanden</string>
+    <string name="za_5_let">gedurende 5 jaar</string>
+    <string name="za_god">in een jaar</string>
+    <string name="za_polgoda">al half jaar</string>
+</resources>

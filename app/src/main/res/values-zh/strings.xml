@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">收入櫃檯</string>
+    <string name="_sekund">秒</string>
+    <string name="iItogo_zarabotaesh">總收益：</string>
+    <string name="inTenge">這裡</string>
+    <string name="showMonthlyIncome">輸入您的月收入：</string>
+    <string name="stopCounter">停止櫃檯</string>
+    <string name="turnOnCounter">打開計數器</string>
+    <string name="ty_zarabotal">你賺了</string>
+    <string name="v_techenii">中</string>
+    <string name="za_10_let">10年</string>
+    <string name="za_1_den">1天</string>
+    <string name="za_1_mesyac">1個月</string>
+    <string name="za_1_nedelyu">1週</string>
+    <string name="za_20_let">20年</string>
+    <string name="za_30_let">30年</string>
+    <string name="za_3_mesyaca">3個月</string>
+    <string name="za_5_let">5年</string>
+    <string name="za_god">一年</string>
+    <string name="za_polgoda">半年</string>
+</resources>

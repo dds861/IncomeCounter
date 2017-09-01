@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zähler Zähler</string>
+    <string name="inTenge">hierauf</string>
+    <string name="showMonthlyIncome">Geben Sie Ihr monatliches Einkommen ein:</string>
+    <string name="stopCounter">Stoppzähler</string>
+    <string name="turnOnCounter">Zähler einschalten</string>
+    <string name="ty_zarabotal">Sie haben verdient</string>
+    <string name="v_techenii">Während</string>
+    <string name="za_10_let">für 10 Jahre</string>
+    <string name="za_1_den">für 1 Tag</string>
+    <string name="za_1_mesyac">für 1 Monat</string>
+    <string name="za_1_nedelyu">für 1 Woche</string>
+    <string name="za_20_let">seit 20 Jahren</string>
+    <string name="iItogo_zarabotaesh">Gesamtertrag:</string>
+    <string name="_sekund">sekunden</string>
+    <string name="za_30_let">seit 30 Jahren</string>
+    <string name="za_3_mesyaca">für 3 Monate</string>
+    <string name="za_5_let">für 5 Jahre</string>
+    <string name="za_god">in einem Jahr</string>
+    <string name="za_polgoda">für das halbe Jahr</string>
+</resources>

@@ -1,7 +1,21 @@
 <resources>
-    <string name="app_name">Счётчик Дохода</string>
-    <string name="showMonthlyIncome">Укажите ежемесячный заработок:</string>
-    <string name="inTenge">в тенге</string>
-    <string name="turnOnCounter">Включить счётчик</string>
-    <string name="stopCounter">Остановить счётчик</string>
+    <string name="app_name">Income Counter</string>
+    <string name="showMonthlyIncome">Enter your monthly income:</string>
+    <string name="inTenge">here</string>
+    <string name="turnOnCounter">Turn on Counter</string>
+    <string name="stopCounter">Stop counter</string>
+    <string name="za_1_den">for 1 day</string>
+    <string name="iItogo_zarabotaesh">Total earnings:</string>
+    <string name="za_1_nedelyu">for 1 week</string>
+    <string name="za_1_mesyac">for 1 month</string>
+    <string name="za_3_mesyaca">for 3 months</string>
+    <string name="za_polgoda">for half year</string>
+    <string name="za_god">in a year</string>
+    <string name="za_5_let">for 5 years</string>
+    <string name="za_10_let">for 10 years</string>
+    <string name="za_20_let">for 20 years</string>
+    <string name="za_30_let">for 30 years</string>
+    <string name="v_techenii">During</string>
+    <string name="_sekund">seconds</string>
+    <string name="ty_zarabotal">you earned</string>
 </resources>

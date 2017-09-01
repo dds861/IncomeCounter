@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Compteur de revenu</string>
+    <string name="_sekund">secondes</string>
+    <string name="iItogo_zarabotaesh">Total des gains:</string>
+    <string name="inTenge">ici</string>
+    <string name="showMonthlyIncome">Entrez votre revenu mensuel:</string>
+    <string name="stopCounter">Compteur d\'arrêt</string>
+    <string name="turnOnCounter">Allumer le compteur</string>
+    <string name="ty_zarabotal">vous avez gagné</string>
+    <string name="v_techenii">Pendant que</string>
+    <string name="za_10_let">pendant 10 ans</string>
+    <string name="za_1_den">pour 1 jour</string>
+    <string name="za_1_mesyac">pendant 1 mois</string>
+    <string name="za_1_nedelyu">pour 1 semaine</string>
+    <string name="za_20_let">depuis 20 ans</string>
+    <string name="za_30_let">depuis 30 ans</string>
+    <string name="za_3_mesyaca">pendant 3 mois</string>
+    <string name="za_5_let">pendant 5 ans</string>
+    <string name="za_god">dans un an</string>
+    <string name="za_polgoda">pendant six mois</string>
+</resources>
