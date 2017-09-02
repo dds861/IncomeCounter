@@ -16,10 +16,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
 
 
-                <!-- Accepts URIs that begin with "http://www.example.com/gizmos” -->
-                <data android:scheme="http"
-                    android:host="www.example.com"
-                    android:pathPrefix="/incomecounter" />
+
 
 
 
